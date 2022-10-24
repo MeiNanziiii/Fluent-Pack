@@ -1,0 +1,35 @@
+{
+  "publisher": "MeiNanziiii",
+  "name": "fluent-pack",
+  "displayName": "Fluent Pack",
+  "description": "Fluent Pack for VSCode",
+  "version": "1.0.0",
+  "icon": "logo.png",
+  "galleryBanner": {
+    "color": "#F7F7F7",
+    "theme": "light"
+  },
+  "keywords": [
+    "fluent",
+    "fluent ui",
+    "windows 11",
+    "windows",
+    "ui",
+    "fluent-ui",
+    "pack",
+    "fluent pack",
+    "fluent-pack"
+  ],
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "meinanziiii.mei-pastel",
+    "leandro-rodrigues.fluent-ui-vscode",
+    "comdec.simple-icons",
+    "miguelsolorio.fluent-icons"
+  ]
+}
